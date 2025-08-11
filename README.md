@@ -1,7 +1,3 @@
-# flutter-treasure-hunt
-Flutter Treasure Hunt Challenge – an app where a static map hides treasures, and your mission is to bring them to life with interactive markers, details, and persistence.
-
-Flutter Treasure Hunt – Test Assignment
 # 🗺️ Flutter Treasure Hunt — Test Assignment
 
 A small adventure club wants a simple mobile app where members can see treasures hidden around town.
@@ -62,4 +58,7 @@ On marker tap, show a pop-up or navigate to a details screen with:
 
 ```text
 1. Golden Oak          — x=0.18, y=0.72 — "Hidden near a large oak tree"
-2. River Rock Gem      — x=0.55, y=0.60 — "Under the big ro
+2. River Rock Gem      — x=0.55, y=0.60 — "Under the big rock by the river"
+3. Market Square Coin  — x=0.40, y=0.28 — "Buried in the old market square"
+4. Lighthouse Pearl    — x=0.80, y=0.20 — "Inside a secret compartment"
+5. Hilltop Crown       — x=0.68, y=0.10 — "At the very top of the hill"
